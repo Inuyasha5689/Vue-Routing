@@ -13,7 +13,7 @@
     export default {
         methods: {
             navigateToHome() {
-                this.$router.push({name: 'home'});
+                this.$router.push({ name: 'home'});
             }
         }
     }
